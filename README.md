@@ -13,7 +13,7 @@
 
 ### - I'm Wissam 22 years old Computer Science Student at Ariel University .
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Wissam111/Wissam111/blob/master/assets/demon-slayer.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms.
@@ -59,7 +59,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Wissam111/Wissam111/blob/master/assets/icegif-4773.gif">
 
 
 
