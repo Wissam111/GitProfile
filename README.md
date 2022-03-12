@@ -3,7 +3,7 @@
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Wissam111/Wissam111/blob/master/assets/giphy.gif">
 </div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wissam111 &theme=radical)
+
 
 
 </br>
