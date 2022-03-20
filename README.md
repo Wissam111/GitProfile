@@ -1,19 +1,20 @@
 <<<<<<< HEAD
+
 <div align="center" width="50">
 
 <img hight="300" width="550" alt="GIF" align="center" src="https://github.com/Wissam111/Wissam111/blob/master/assets/cowboy.gif">
 
 <p><strong>2nd year CS student.</strong></p>
 
-</div>
-=======
+# </div>
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Wissam111/Wissam111/blob/master/assets/giphy.gif">
 </div>
 
->>>>>>> af77e0ece4549d595b193a8c53bb7e4b3e8ad448
+> > > > > > > af77e0ece4549d595b193a8c53bb7e4b3e8ad448
 
 <hr></hr>
 
@@ -41,8 +42,8 @@
 
 <img src="https://github.com/Wissam111/Wissam111/blob/master/assets/dino.gif" href="https://github.com/SP-XD" width="700"/><br>
 
-</div>
-=======
+# </div>
+
 </br>
 </br>
 </br>
