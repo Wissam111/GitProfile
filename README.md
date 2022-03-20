@@ -1,90 +1,34 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<div align="center" width="50">
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Wissam111/Wissam111/blob/master/assets/giphy.gif">
+<img hight="300" width="550" alt="GIF" align="center" src="https://github.com/Wissam111/Wissam111/blob/master/assets/cowboy.gif">
+
+<p><strong>2nd year CS student.</strong></p>
+
 </div>
 
-</br>
-</br>
-</br>
+<hr></hr>
 
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Sqlite](https://img.shields.io/badge/mySQL-07405E?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-# About ME 💬 :
+- <img alt="GIF" src="https://github.com/Wissam111/Wissam111/blob/master/assets/popc.gif" width="25" /> &nbsp; I'm currently Working as Film Projector Operator while doing my CS degree \*\*. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
+- <img src="https://github.com/Wissam111/Wissam111/blob/master/assets/message.gif" width="25" />&nbsp;&nbsp; Ask me about **Anime,Manga, Movies, or anything**. <br>
 
-### - I'm Wissam 22 years old Computer Science Student at Ariel University .
+<div align="center" >
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Wissam111/Wissam111/blob/master/assets/demon-slayer.gif">
+<img src="https://github.com/Wissam111/Wissam111/blob/master/assets/dino.gif" href="https://github.com/SP-XD" width="700"/><br>
 
-### - Learning :
-- ✨ Data Structures & Algorithms.
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Running
-
-
-</br>
-</br>
-</br>
-
-
-
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-
-</p>
-</br>
-</br>
-</br>
-
-
-
-# Contact Me :
-
-<p>
- </br>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Wissam111/Wissam111/blob/master/assets/icegif-4773.gif">
-
-
-
-<a href="https://www.linkedin.com/in/wissam-kabha-7a20b1226/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-<a href="https://www.reddit.com/user/Falafel0101">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561198146696652/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
-</a>
- </p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-*************
+</div>
