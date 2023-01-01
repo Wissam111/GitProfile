@@ -2,7 +2,7 @@
 <div align="center" width="50">
 
 <img hight="300" width="400" alt="GIF" align="center" src="https://github.com/Wissam111/Wissam111/blob/master/assets/cowboy.gif">
-<p><strong>2nd year CS student.</strong></p>
+<p><strong>3nd year CS student.</strong></p>
 
 </div>
 
